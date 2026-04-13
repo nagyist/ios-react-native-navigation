@@ -1,7 +1,6 @@
 package com.reactnativenavigation.viewcontrollers.viewcontroller
 
 import android.annotation.SuppressLint
-import com.facebook.react.ReactInstanceManager
 import com.facebook.react.modules.i18nmanager.I18nUtil
 import com.reactnativenavigation.options.Options
 

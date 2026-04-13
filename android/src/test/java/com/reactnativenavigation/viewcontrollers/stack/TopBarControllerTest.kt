@@ -51,7 +51,6 @@ class TopBarControllerTest : BaseTest() {
 
     override fun beforeEach() {
         super.beforeEach()
-
         activity = newActivity()
         appearAnimator = spy(TopBarAppearanceAnimator())
         colorAnimator = mock<ColorAnimator>()
